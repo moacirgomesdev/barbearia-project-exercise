@@ -1,0 +1,15 @@
+body{background-color:black;}
+div{width:600px; margin:30px auto; font-family:verdana; color:grey; text-align:center;
+}
+img{width:200px;}
+h1{border:5px solid grey; font-size:26px; padding:5px; margin-top:40px;}
+h2{font-size:22px;}
+h3{font-size:18px; border-top:solid; border-bottom:solid; border-width:6px;
+    border-color:blue;}
+p{text-align:justify; font-size:18px; margin:30px 0;}
+a{color:blue; background-color:mediumseagreen; border:8px solid yellow; border-radius:20px;
+   padding:10px 15px; font-family:Arial; text-decoration:none; font-weight:bold;
+   margin:0 auto; }
+a:hover{transform:scale(1.10);
+       background-color:dimgray; border:5px solid white;}
+span{font-weight:bold;}
